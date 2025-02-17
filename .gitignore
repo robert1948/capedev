@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Virtual environment
+backend/venv/
+
+# Node
+reactapp/node_modules/
+
+# Build outputs (if you want to rebuild them instead)
+reactapp/build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
